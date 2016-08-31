@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "dblacita": {
+    "host": "ds147905.mlab.com",
+    "port": 47905,
+    "url": "mongodb://sadian88:Bateriass1065@ds147905.mlab.com:47905/lacitadb",
+    "database": "lacitadb",
+    "password": "Bateriass1065",
+    "name": "dblacita",
+    "user": "sadian88",
+    "connector": "mongodb"
+  }
+}
